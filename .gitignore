@@ -59,18 +59,14 @@ yarn-error.log*
 .env.production.local
 
 # Large files and models
-*.pkl
+
 *.joblib
-*.h5
 *.hdf5
 *.model
 *.bin
 *.onnx
 *.tflite
 *.pb
-*.safetensors
-*.pt
-*.keras
 
 # Logs
 *.log
